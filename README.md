@@ -9,11 +9,8 @@ A mappalerendezés a következö:
 <li>Herend Fest<ul>
 
 <s><li>Országútibicikli<ul>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-            </ul></li></s>
+
+</ul></li></s>
 
 <li>Terepfutás<ul>
                 <li>Szentgál</li>
@@ -23,11 +20,9 @@ A mappalerendezés a következö:
             </ul></li>
 
 <s><li>Terepbicikli<ul>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-            </ul></li></s>
+
+
+</ul></li></s>
 
 </ul></li>
 </ul>

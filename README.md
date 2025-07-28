@@ -8,9 +8,9 @@ A mappalerendezés a következö:
 
 <li>Herend Fest<ul>
 
-<s><li>Országútibicikli<ul>
+<s><li>Országútibicikli<ul></s> Átmenetileg nem elérhető
 
-</ul></li></s>
+</ul></li>
 
 <li>Terepfutás<ul>
                 <li>Szentgál</li>

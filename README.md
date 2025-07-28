@@ -1,9 +1,9 @@
 A mappalerendezés a következö:
 <ul>
-    <s><li>Bakony 200<ul>
+    <s><li>Bakony 200<ul></s> Átmenetileg nem elérhető
 
 
-</ul></li></s>
+</ul></li>
 
 
 <li>Herend Fest<ul>
@@ -19,10 +19,10 @@ A mappalerendezés a következö:
                 <li>Kör+Csúcs</li>
             </ul></li>
 
-<s><li>Terepbicikli<ul>
+<s><li>Terepbicikli<ul></s>  Átmenetileg nem elérhető
 
 
-</ul></li></s>
+</ul></li>
 
 </ul></li>
 </ul>

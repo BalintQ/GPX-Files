@@ -1,3 +1,3 @@
-https://turistautak.openstreetmap.hu/gpxnz.php?gpx=gpxup/Szentg%C3%A1l.gpx
+A Túristautak weboldalon elérhető térkép:
 
-<iframe src="https://turistautak.openstreetmap.hu/gpxnz.php?gpx=gpxup/Szentg%C3%A1l.gpx" frameborder="0" width="1200px" height="750px" style="margin: 0 auto; display: block;"></iframe>
+  https://turistautak.openstreetmap.hu/gpxnz.php?gpx=gpxup/Szentg%C3%A1l.gpx

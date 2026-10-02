@@ -1,3 +1,7 @@
+# DEPRECATED
+
+#Használja a Google Drive verziót!#
+
 A mappalerendezés a következö:
 <ul>
     <s><li>Bakony 200<ul></s> Átmenetileg nem elérhető
